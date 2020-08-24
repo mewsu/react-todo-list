@@ -1,7 +1,7 @@
 {
   "name": "complete-intro-to-react-v5",
   "version": "1.0.0",
-  "description": "template",
+  "description": "react-todo-list",
   "main": "src/App.js",
   "dependencies": {
     "react": "^16.8.4",
